@@ -1,0 +1,13 @@
+.cen{
+    width: 250px;
+    height: auto;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    border: solid 1px;
+    background-color: aqua;
+}
+.cen button{
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+
+}

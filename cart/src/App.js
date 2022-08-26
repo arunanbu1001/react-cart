@@ -1,13 +1,15 @@
-// import logo from './logo.svg';
-// import './App.css';
-// import Cart from './cart/Cart';
+import logo from './logo.svg';
+import './App.css';
+import Cart from './cart/Cart';
+// import Fun from './Fun';
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <Cart />
-//     </div>
-//   );
-// }
+function App() {
+  return (
+    <div className="App">
+        {/* <Fun /> */}
+      <Cart />
+    </div>
+  );
+}
 
-// export default App;
+export default App;
